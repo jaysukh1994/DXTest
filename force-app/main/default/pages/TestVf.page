@@ -1,0 +1,9 @@
+<apex:page controller="Test1">
+  <apex:form >
+      <apex:pageBlock >
+          <apex:pageBlockSection >
+              <apex:outputLabel >{!test}</apex:outputLabel>
+          </apex:pageBlockSection>
+      </apex:pageBlock>
+  </apex:form>
+</apex:page>

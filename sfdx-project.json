@@ -1,0 +1,31 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "pkgB",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "dependencies": [
+                {
+                    "packageId": "0Ho6F000000XZk0SAG",
+                    "versionNumber": "1.0.0.LATEST"
+                }
+            ],
+            "orgPreferences": {
+                "enabled": [
+                    "S1DesktopEnabled"
+                ]
+            }
+        }
+    ],
+    "namespace": "mydxpkg",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "pkgB": "0Ho6F000000XZk5SAG",
+        "pkgB@1.0.0-1": "04t6F000003zAwbQAE",
+        "pkgB@1.0.0-2": "04t6F000003zB0nQAE",
+        "pkgB@1.0.0-3": "04t6F000003zB0sQAE"
+    }
+}
