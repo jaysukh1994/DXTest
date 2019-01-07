@@ -13,5 +13,9 @@ public class Test1
     {
         System.debug('Test');
         return system.label.COMM_Test;
-    }    
+    } 
+    public string getGit()
+    {
+       return 'git';
+    }
 }
