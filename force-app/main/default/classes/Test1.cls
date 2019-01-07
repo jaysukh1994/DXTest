@@ -16,6 +16,7 @@ public class Test1
     } 
     public string getGit()
     {
+       // please return the value dynamically
        return 'git';
     }
 }
