@@ -3,3 +3,4 @@
 #
 **staticresources
 package.xml
+force-app\main\default\classes\Test.cls
