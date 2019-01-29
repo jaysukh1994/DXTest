@@ -1,6 +1,7 @@
 public class Test1
 {
 
+    //Sync test with git
     public String getTest() {
         return system.label.COMM_Test;
     }
@@ -19,4 +20,5 @@ public class Test1
        // please return the value dynamically
        return 'git';
     }
+    
 }
