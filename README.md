@@ -11,6 +11,6 @@
 
 ## Issues
 
-## Sync git
+## do not sync Sync git
 
 
